@@ -1,19 +1,19 @@
-# Computer-Vision
-Computer Vision Projects
+# Computer-Vision Projects
 
+## Improved Unsupervised Multi-level Clustering for Segmentation of Remote Sensing Imageries Containing Embedded Objects 
 
-| ![Image 1](dataset.pn) | ![Image 2](after_merging.png) |
+| ![Image 1](dataset.png) | ![Image 2](after_merging.png) |
 | --- | --- |
-| *Label for Image 1* | *Label for Image 2* |
+| <h3 align="center">Original Radar data Image</h3> | <h3 align="center">Clustered image after merging</h3> |
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="dataset.png" alt="Original Image" width="400"/>
-    <p align="center">Original Radar data Imag</p>
-  </div>
+Above Provided Figures shows the clustering of the cloud data. The Image in the left hend side is showing the original Image which is 2D representaion of one the radar reading(DB-z) over the cordinates. And the figure on the right side is the outcome of the clustering approach. 
 
-  <div>
-    <img src="after_merging.png" alt="Output image after merging" width="400"/>
-    <p align="center">Clustered image after merging</p>
-  </div>
-</div>
+In real, there are many other parameters which are acccountable for cloud data clustering. And Also the data is also in 3D space.
+
+### Algorithm of the project :
+![image](https://github.com/kevin200010/Computer-Vision/assets/54860223/dbfe771f-4049-4ba4-a5c6-1cc2257af5a9)
+
+
+
+### Provided Notebook 
+In the provided notebook, I have shown, the algorithm approach on google earth image, on which I have tried to solve **the image segementation problem** into geo-graphical objects like (farm-land, Residential area, Roads, etc).
