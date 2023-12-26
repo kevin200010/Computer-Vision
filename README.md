@@ -17,3 +17,17 @@ In real, there are many other parameters which are acccountable for cloud data c
 
 ### Provided Notebook 
 In the provided notebook, I have shown, the algorithm approach on google earth image, on which I have tried to solve **the image segementation problem** into geo-graphical objects like (farm-land, Residential area, Roads, etc).
+<br>
+
+### The Results for the given notebook :
+| Original Image | ![main_setalite](small_Screenshot_1.png) |
+| --- | --- |
+| Clustered Image after 7 iterations | ![main_setalite7](https://github.com/kevin200010/Computer-Vision/assets/54860223/5dc0dc0e-4288-4e78-b637-d26bec1b1a8d) |
+
+
+
+## Results :
+## For checking the proposed method improvement, I have used the Silhouette-Score for confirming the cluster separability.
+
+<img width="60%" alt="image" src="https://github.com/kevin200010/Computer-Vision/assets/54860223/70163e72-6f88-4ca8-9ebc-1c2bed5135fd">
+
