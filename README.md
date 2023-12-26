@@ -2,6 +2,9 @@
 
 ## Improved Unsupervised Multi-level Clustering for Segmentation of Remote Sensing Imageries Containing Embedded Objects 
 
+You can view the project documentation (white paper) in PDF format:
+- [Download PDF](paper.pdf)
+
 | ![Image 1](dataset.png) | ![Image 2](after_merging.png) |
 | --- | --- |
 | <h3 align="center">Original Radar data Image</h3> | <h3 align="center">Clustered image after merging</h3> |
