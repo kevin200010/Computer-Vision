@@ -2,6 +2,9 @@
 Computer Vision Projects
 
 
+| ![Image 1](dataset.pn) | ![Image 2](after_merging.png) |
+| --- | --- |
+| *Label for Image 1* | *Label for Image 2* |
 
 <div style="display: flex; justify-content: space-between;">
   <div>
